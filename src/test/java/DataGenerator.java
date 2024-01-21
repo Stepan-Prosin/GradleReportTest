@@ -39,7 +39,7 @@ class DataGenerator {
         return  FAKER.name().username();
 
     }
-    public static String generatepassword() {
+    public static String generatePassword() {
         return  FAKER.internet().password();
 
     }
@@ -48,7 +48,7 @@ class DataGenerator {
         private Registration() {
         }
         public static  RegistrationDto getUser(String status){
-            return  new RegistrationDto(generateName(),generatepassword(),status);
+            return  new RegistrationDto(generateName(),generatePassword(),status);
         }
         public static  RegistrationDto getRegistredUser(String status){
             return sendRequest(getUser(status)) ;
