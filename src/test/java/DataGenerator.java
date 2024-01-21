@@ -4,7 +4,7 @@ import io.restassured.filter.log.LogDetail;
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
 import lombok.Value;
-import org.junit.jupiter.api.Test;
+
 
 import java.util.Locale;
 
