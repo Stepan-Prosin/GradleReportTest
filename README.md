@@ -1,4 +1,4 @@
-![img.png](img.png)
+![img_1.png](img_1.png)
 ![1705784427936.0.png](build%2Freports%2Ftests%2F1705784427936.0.png)
 ![1705784778873.0.png](build%2Freports%2Ftests%2F1705784778873.0.png)
 ![1705784859295.0.png](build%2Freports%2Ftests%2F1705784859295.0.png)
